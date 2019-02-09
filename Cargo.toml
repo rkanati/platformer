@@ -1,0 +1,12 @@
+[package]
+name       = "rust-game"
+version    = "0.1.0"
+authors    = ["Rachel K <raech.kanati@gmail.com>"]
+edition    = "2018"
+publish    = false
+repository = "https://github.com/rkanati/rust-game.git"
+
+[dependencies]
+glutin = "*"
+gl     = "*"
+

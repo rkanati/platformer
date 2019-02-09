@@ -1,0 +1,6 @@
+edition = "2018"
+max_width = 78
+tab_spaces = 2
+struct_field_align_threshold = 40
+wrap_comments = true
+
