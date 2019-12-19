@@ -7,6 +7,10 @@ publish    = false
 repository = "https://github.com/rkanati/rust-game.git"
 
 [dependencies]
-glutin = "*"
-gl     = "*"
+glutin            = "0.22.0-alpha5"
+gl                = "*"
+image             = "*"
+tiled             = "0.8"
+static_assertions = "1.1"
+nalgebra          = "0.19"
 
